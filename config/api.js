@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const API_ENDPOINTS = [
-    'https://uidlookupnx.vercel.app/info',
+    'https://syncinfo.vercel.app/info',
 ];
 
 const axiosInstance = axios.create({
