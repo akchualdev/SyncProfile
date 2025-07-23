@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const API_ENDPOINTS = [
-    'https://syncinfo.vercel.app/info',
+    'https://syncinfo.onrender.com/info',
 ];
 
 const axiosInstance = axios.create({
